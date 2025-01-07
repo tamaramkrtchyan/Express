@@ -1,0 +1,20 @@
+{
+  "john_doe": {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "password": "password123",
+    "bio": "this is my bio"
+  },
+  "newuser": {
+    "username": "newuser",
+    "email": "newuser@example.com",
+    "password": "password123",
+    "bio": "Some bio text"
+  },
+  "user1": {
+    "username": "user1",
+    "email": "user1@example.com",
+    "password": "password123",
+    "bio": "Hello, I am user1!"
+  }
+}

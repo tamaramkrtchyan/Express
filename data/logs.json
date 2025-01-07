@@ -1,0 +1,37 @@
+[
+  {
+    "event": "User Registered",
+    "username": "john_doe",
+    "timestamp": "2025-01-07T16:07:54.789Z"
+  },
+  {
+    "method": "POST",
+    "url": "/users/posts",
+    "timestamp": "2025-01-07T16:08:40.152Z"
+  },
+  {
+    "method": "GET",
+    "url": "/users/register",
+    "timestamp": "2025-01-07T16:18:04.730Z"
+  },
+  {
+    "event": "User Registered",
+    "username": "newuser",
+    "timestamp": "2025-01-07T16:21:54.404Z"
+  },
+  {
+    "event": "User Registered",
+    "username": "user1",
+    "timestamp": "2025-01-07T16:23:24.811Z"
+  },
+  {
+    "method": "GET",
+    "url": "/posts/1",
+    "timestamp": "2025-01-07T16:38:22.526Z"
+  },
+  {
+    "method": "PUT",
+    "url": "/users/login",
+    "timestamp": "2025-01-07T16:41:27.343Z"
+  }
+]

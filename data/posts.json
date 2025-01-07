@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "My First Post",
+    "content": "This is the content of my first post.",
+    "timestamp": "2025-01-07T16:37:00.192Z",
+    "author": "user1"
+  },
+  {
+    "id": 2,
+    "title": "My First Post",
+    "content": "This is the content of my first post.",
+    "timestamp": "2025-01-07T16:37:30.690Z",
+    "author": "user1"
+  },
+  {
+    "id": 3,
+    "title": "My First Post",
+    "content": "This is the content of my first post.",
+    "timestamp": "2025-01-07T16:37:31.928Z",
+    "author": "user1"
+  }
+]
